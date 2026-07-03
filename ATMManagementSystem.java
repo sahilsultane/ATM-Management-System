@@ -3,7 +3,7 @@ import java.util.*;
 
 
 
-public class Atmmgn {
+public class ATMManagementSystem {
     public static void main(String[] args) {
 
 
